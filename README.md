@@ -32,10 +32,10 @@ Now, the bank is looking for your help in identifying customers that could show 
 The evaluation metrics for this competition is [ROC AUC Score](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html).
 
 ## Leaderboard
-**Public Leaderboard:** : 
+**Public Leaderboard:** : 10/ 2639
 
-**Public LB Score:** 
+**Public LB Score:** 0.8736385321
 
-**Private Leaderboard:** 
+**Private Leaderboard:** 63/2639
 
-**Private LB Score:** 
+**Private LB Score:** 0.8731987381
